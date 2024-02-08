@@ -5,7 +5,7 @@ After learning about Linux in Uni, I'm starting to write my own bash scripts. ðŸ
 
 This script helps you find specific words in multiple PDF files at once. Using wildcards is highly recommended.
 
-### Functionality
+## Functionality
 
 The script searches for words in PDF files and prints the lines containing the words, along with the respective file. It also supports options like -B and -A to display a specific number of lines before and after the word. By default, it ignores case when searching.
 
