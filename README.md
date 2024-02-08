@@ -26,7 +26,7 @@ $ search "Iterative deepening" Folien/*
 ```
 
 **Output:**
-
+```bash
 -----------------------------------------------
 Folien/AI 03 Solving Problems by Searching.pdf
 -----------------------------------------------
@@ -47,3 +47,4 @@ Iterative Deepening Search
 Folien/AI 05 Adversarial Search.pdf
 ------------------------------------
 • Better: Use iterative deepening
+``` 
