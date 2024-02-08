@@ -1,13 +1,15 @@
 # BashScripts
-After learning about Linux in Uni, I am starting to write my own bash scripts. :)
+After learning about Linux in Uni, I'm starting to write my own bash scripts. 😊
 
-# PDF Search Script
+## PDF Search Script
 
-This script allows searching for a specific keyword in multiple PDF files at once. This is very practical
+This script helps you find specific words in multiple PDF files at once. Using wildcards is highly recommended.
 
-## Functionality
+### Functionality
 
-The script searches PDF files for a specific keyword and prints out the lines containing the keyword, as well as the respective file containing it. It also supports the options -B and -A to display a specific number of lines before and after the found keyword. It uses -i option (ignoreCase) on grep on default.
+The script searches for words in PDF files and prints the lines containing the words, along with the respective file. It also supports options like -B and -A to display a specific number of lines before and after the word. By default, it ignores case when searching.
+
+Feel free to use and modify this script as needed! Happy scripting! 🚀
 
 ## Usage
 
